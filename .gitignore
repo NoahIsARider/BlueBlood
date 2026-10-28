@@ -1,0 +1,14 @@
+# Godot
+.godot/
+build/
+dist/
+*.tmp
+
+# exports and local builds
+*.exe
+*.pck
+*.zip
+
+# scratch
+shot.png
+shot.png.import
